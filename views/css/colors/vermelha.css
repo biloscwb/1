@@ -1,0 +1,90 @@
+/*------------------------------------------------------------------
+  SKIN VERMELHA
+ -------------------------------------------------------------------*/
+
+/* Pink Light */
+svg #svg-ico{fill:#FF0000;}
+svg #svg-concept{stroke:#FF0000;}
+.golink{color:#FF0000 !important;border-bottom:solid 1px #FF0000;}
+.golink:hover{color:#FF0000 !important;}
+.bg-pink{background-color:#FF0000 !important;}
+.c-pink{color:#FF0000 !important;}
+.bb-pink{border-bottom:solid 1px #FF0000 !important;}
+.popover{border:solid 1px #FF0000;}
+.popover .arrow::before{border-top-color:#FF0000;}
+.popover .popover-header{background-color:#FF0000;}
+::selection{background:#FF0000;}
+.nav-menu .main-menu > .menu-item > .sub-menu > .menu-item a:hover{color:#FF0000;}
+.nav-menu .main-menu .menu-item .menu-large .service-list .service .media-body a:hover{color:#FF0000;}
+.megamenu .start-offer .inner{background-color:#FF0000;}
+.megamenu .service-list .service.special .media-body a:hover{color:#FF0000;}
+.megamenu .service-list .service .media-body a:hover{color:#FF0000;}
+.megamenu-list .service-list .service .media-body a:hover{color:#FF0000;}
+.team .wrapper:hover .team-info .desc{color:#FF0000;}
+.wpc-cloud-range .noUi-connect{background-color:#FF0000;}
+.wpc-cloud-range .noUi-tooltip:before{border-color:#FF0000 transparent transparent transparent;}
+.wpc-cloud-range .noUi-tooltip{background-color:#FF0000;}
+.wpc-cloud-range .noUi-horizontal .noUi-handle{background-color:#FF0000;}
+.wpc-vps-info .title .info{color:#FF0000;}
+.fullrock .closer{color:#FF0000 !important;}
+.form-control:focus{border:solid 1px #FF0000 !important;}
+.sec-bg5{background-color:#FF0000;}
+.total-grad{background:linear-gradient(-60deg, #FF0000 0%,#FF6347 100%) !important;}
+.total-grad-inverse{background:linear-gradient(240deg, #FF6347 0%,#FF0000 100%);}
+.total-grad-pink-blue-intense {background: linear-gradient(240deg, #000000 50%, #3f004a 100%);}
+.menu-wrap.fixed{background:linear-gradient(89deg,#FF6347 3%,#FF0000 98%);}
+.btn-default-pink{color:#FF0000;border:1px solid #FF0000;}
+.btn-default-pink:hover{background-color:#FF0000;}
+.btn-default-grad-purple-fill{background-image:linear-gradient(to right, #FF6347, #FF0000 40%, #FF0000 40%, #FF6347);}
+.btn-default-grad-purple-fill:hover{background-image:linear-gradient(to right, #FF6347, #FF0000 40%, #FF0000 40%, #FF6347);}
+.btn-default-pink-fill{background-color:#FF0000 !important;}
+.owl-theme .owl-dots .owl-dot.active span{border:solid 1px #FF0000 !important;}
+.pricing .wrapper .title{color:#FF0000;}
+.pricing .list-info{background-color:#FF0000;}
+.slick #slider .plan-container .title{color:#FF0000;}
+.tabs-header .btn-secondary:not(:disabled):not(.disabled).active{background-color:#FF0000 !important;}
+.tabs.offers-tabs .tabs-header .active{border-left:solid 1px #FF0000;color:#FF0000;}
+.tabs.offers-tabs .tabs-header .active:hover{color:#FF0000;}
+.fill-input:focus{border-color:#FF0000 !important;}
+.countdown .wrapper .clock div:first-child{border:solid 1px #FF0000;background-color:#FF0000;}
+.accordion.faq .panel-title.active{border-bottom:solid 1px #FF0000;}
+.blog .sidebar .heading.active{color:#FF0000;}
+.blog .sidebar .posts .tabs-header li.active{color:#FF0000;border-bottom-color:#FF0000;}
+.blog .sidebar .line.active:before{background-color:#FF0000;}
+.blog .media .media-heading a:hover{color:#FF0000;}
+.blog .wrap-blog .social-icon i{color:#FF0000;}
+.blog .sidebar .categories .heading a.active{color:#FF0000;}
+.blog .sidebar .categories .heading a:after{color:#FF0000;}
+.blog .sidebar .categories .heading span{color:#FF0000;}
+.circle-section .title-round{color:#FF0000;}
+.domain-prices li{color:#FF0000;}
+.maping .datacenters{background:#FF0000;}
+.footer .soc-icons i{color:#FF0000;}
+.included i{color:#FF0000;}
+.soc-icons-apply span{color:#FF0000;}
+.bigline{border:solid 1px #FF0000;}
+.smallline{border:solid 1px #FF0000;}
+.knowledge a{color:#FF0000;}
+.godown span{color:#FF0000;}
+.cd-filter-block input[type=radio]:checked + label::before, .cd-filter-block input[type=checkbox]:checked + label::before{border:solid 1px #FF0000 !important;background-color:#FF0000 !important;}
+.cd-filter-block select:hover{border:solid 1px #FF0000 !important;}
+.cd-filter-block input:focus,
+.cd-filter-block select:focus{border-color:#FF0000 !important;}
+.range-slider-input::-webkit-slider-runnable-track{background:#FF0000;}
+.range-slider-input::-webkit-slider-thumb{background:#FF0000;}
+.zoo-content .icoo i{background-color:#FF0000;}
+.services .service-wrap .pay img{border:solid 1px #FF0000;}
+.page-item.active .page-link{background-color:#FF0000 !important;border-color:#FF0000 !important;}
+.cd-filter-block input.range-slider-input{background-color:#FF0000 !important;}
+.range-slider-input::-webkit-slider-thumb{background-color:#FF0000 !important;}
+.range-slider-input::-moz-range-thumb{background-color:#FF0000 !important;}
+/* Pink Dark */
+.bg-purple{background-color:#FF6347 !important;}
+.c-purple{color:#FF6347 !important;}
+.sec-grad-white-to-purple{background:linear-gradient(90deg, #fff 70%, #FF6347 0%) !important;}
+.btn-default-purple{color:#FF6347;border:1px solid #FF6347;}
+.btn-default-purple:hover{background-color:#FF6347;}
+.btn-default-purple-fill{background-color:#FF6347 !important;}
+.pricing .table .title{color:#FF6347;}
+.accordion.faq .panel-title.active{color:#FF6347 !important;}
+.wpc-vps-info .price-wrap .title{background-color:#FF6347;}
